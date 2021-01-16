@@ -2,7 +2,7 @@
 
 Tilastokeskuksen analytiikkaa
 
-Hain Tilastokeskuksen palvelusta: Kuntien avainluvut v. 2018 CSV tiedosto:
+Hain Tilastokeskuksen palvelusta: Kuntien avainluvut v. 2018 CSV tiedoston:
 
 https://pxnet2.stat.fi/PXWeb/pxweb/fi/Kuntien_avainluvut/Kuntien_avainluvut__2019/kuntien_avainluvut_2019_aikasarja.px
 
